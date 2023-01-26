@@ -34,13 +34,13 @@ publist = {
                         "permalink":"/publication/"}
         
     },
-    "journal":{
-        "file": "pubs.bib",
-        "venuekey" : "journal",
-        "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-    } 
+    # "journal":{
+    #     "file": "pubs.bib",
+    #     "venuekey" : "journal",
+    #     "venue-pretext" : "",
+    #     "collection" : {"name":"publications",
+    #                     "permalink":"/publication/"}
+    # } 
 }
 
 html_escape_table = {
@@ -100,6 +100,7 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
+                print(author.first_names)
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
@@ -151,7 +152,7 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, 'w') as f:
+            with open("./_publications/" + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference
