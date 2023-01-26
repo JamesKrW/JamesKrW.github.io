@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kangrui Wang"
-  avatar           : "kangrui.png"
+  avatar           : "kangrui.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Chicago, US"
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : https://github.com/nightinx
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/wang-kangrui-8b9a37257/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
