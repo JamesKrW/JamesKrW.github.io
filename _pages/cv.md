@@ -17,9 +17,15 @@ Education
 
 Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Fall 2022-present: Research Assistant
+  * Toyata Technological Institute at Chicago
+  * Duties included: 
+    * Created a multi-choice QA dataset based on EntailmentBank
+    * Applied adversarial matching in generating the negative choices:
+      * Used dependency parser and English tokenizer in sentence alignment.
+      * Fine-tuned BERT to calculate the relevance between choice and question. Calculated sentence
+    similarity with all-mpnet-base-v2.
+      * Evaluted the dataset on GPT3.
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
