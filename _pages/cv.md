@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Shanghai Jiao Tong University University, 2018
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Shanghai Jiao Tong University University, 2018-2022
+* Pre-Doctoral M.S. in Computer Science, University of Chicago, 2022-present
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -42,7 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
