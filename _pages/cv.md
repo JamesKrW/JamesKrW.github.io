@@ -86,17 +86,14 @@ Skills
 ======
 * Programming Languages
   * Python, C/C++, Java
-  * MATLAB
-  * Verilog
-  * LaTex
 * Framework
   * Pytorch, Tensorflow, JAX
   * Spring Boot, MySQL
   * Hadoop, Spark
 * DNN Architecture&Model
   * Diffusion Model, GAN, VAE
-  * BERT, GPT3
-  * Transforme, RNN, CNN
+  * BERT, T5, GPT3
+  * Transformer, RNN, CNN
 
 Publications
 ======
