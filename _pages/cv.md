@@ -12,7 +12,10 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Shanghai Jiao Tong University University, 2018-2022
+  * GPA: 3.84/4.00
+
 * Pre-Doctoral M.S. in Computer Science, University of Chicago, 2022-present
+  * GPA: 4.00/4.00
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Research experience
