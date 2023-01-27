@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kangrui Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Chicago, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
