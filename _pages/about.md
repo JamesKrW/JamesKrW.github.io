@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Kangrui Wang is a first-year student in the Pre-Doctoral MS in Computer Science program at the University of Chicago. He’s a member of UCARE, a group working on applying machine learning methods to systems advised by Prof. Haryadi s. Gunawi. Prior to this, he got his bachelor’s degree in Computer Science from Shanghai Jiao Tong University in 2018, where he developed a passion for machine learning. He has been working in Explainable AI group advised by Prof. Quanshi Zhang. Now, his research interest is broadly about NLP, machine learning theory and computer vision.
+Kangrui Wang is a second-year student in the Pre-Doctoral MS in Computer Science program at Uchicago. He's currently a research assistant at the Toyota Technological Institute at Chicago (TTIC) advised by Prof. Hongyuan Mei. He is also collaborating with Mo Yu from WeChat AI and is advised by Prof. Haryadi S. Gunawi in UCARE system research at UChicago.
+
+Kangrui earned his Bachelor's degree in Computer Science from Shanghai Jiao Tong University in 2018, where he developed a passion for machine learning. He has been working in Explainable AI group advised by Prof. Quanshi Zhang.  
+
+Now, Kangrui's research interest is broadly about NLP, machine learning theory and computer vision.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
