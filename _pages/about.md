@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kangrui Wang is a second-year student in the Pre-Doctoral MPCS at Uchicago. He's currently a research assistant at the Toyota Technological Institute at Chicago (TTIC) advised by Prof. Hongyuan Mei. He is also collaborating with Mo Yu from WeChat AI and is advised by Prof. Haryadi S. Gunawi in UCARE system research at UChicago.
+Kangrui Wang is a second-year student in the Pre-Doctoral MPCS at UChicago. He's currently a research assistant at the Toyota Technological Institute at Chicago (TTIC) advised by Prof. Hongyuan Mei. He is also collaborating with Mo Yu from WeChat AI and is advised by Prof. Haryadi S. Gunawi in UCARE system research at UChicago.
 
 Kangrui earned his Bachelor's degree in Computer Science from Shanghai Jiao Tong University in 2018, where he developed a passion for machine learning. He has been working in Explainable AI group advised by Prof. Quanshi Zhang.  
 
