@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year graduate student from Pre-Doctoral MPCS, University of Chicago. My researh interest is broadly about natural language processing, reinforcement learning and machine learning theory. My primary research goal is to 
+I'm a second-year graduate student from Pre-Doctoral MPCS, University of Chicago. My researh interest is broadly about natural language processing, reinforcement learning and machine learning theory. My current research goal is to build powerful lanaguge models that can solve real-world problems. 
 
-I received my Bachelor's degree in Computer Science from Shanghai Jiao Tong University in 2022, where I'm fortunate to work in Explainable AI group advised by Prof. Quanshi Zhang.  
+Before joining Uchicago, I received my Bachelor's degree in Computer Science from Shanghai Jiao Tong University in 2022, where I'm fortunate to work in Explainable AI group advised by Prof. Quanshi Zhang.  
+
 
 
 
