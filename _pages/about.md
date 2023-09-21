@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year graduate student from Pre-Doctoral MPCS, University of Chicago. My researh interest is broadly about natural language processing, reinforcement learning and machine learning theory. My current research goal is to build powerful lanaguge models that can solve real-world problems. 
+I'm a second-year graduate student from Pre-Doctoral MPCS, University of Chicago. My researh interest is broadly about natural language processing, reinforcement learning and machine learning theory. My current research goal is to to develop advanced language models capable of addressing tangible, real-world challenges. I'm fortuate to be under the guidance of Prof. Hongyuan Mei at TTIC. I also collaborate with Mo Yu from Wechat AI.
 
-Before joining Uchicago, I received my Bachelor's degree in Computer Science from Shanghai Jiao Tong University in 2022, where I'm fortunate to work in Explainable AI group advised by Prof. Quanshi Zhang.  
-
+Before joining Uchicago, I received my Bachelor's degree in Computer Science from Shanghai Jiao Tong University, where I was a part of the Explainable AI group and had the honor of being mentored by Prof. Quanshi Zhang.
 
 
 
