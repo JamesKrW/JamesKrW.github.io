@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year master student from Pre-Doctoral MPCS, University of Chicago. My research interest 
+I'm a second-year graduate student from Pre-Doctoral MPCS, University of Chicago. My researh interest is broadly about natural language processing, reinforcement learning and machine learning theory. My primary research goal is to 
 
-I received Bachelor's degree in Computer Science from Shanghai Jiao Tong University in 2018, where he developed a passion for machine learning. He has been working in Explainable AI group advised by Prof. Quanshi Zhang.  
+I received my Bachelor's degree in Computer Science from Shanghai Jiao Tong University in 2022, where I'm fortunate to work in Explainable AI group advised by Prof. Quanshi Zhang.  
 
-Now, Kangrui's research interest is broadly about NLP, machine learning theory and computer vision.
+
 
 
