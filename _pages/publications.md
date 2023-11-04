@@ -17,18 +17,24 @@ author_profile: true
 {% endfor %}  -->
 
 
-### 2023
+- [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646)<br> 
+  Xiaoming Shi, Siqiao Xue, **Kangrui Wang**, Fan Zhou, James Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei<br>
+  [**NeurIPS 2023**]
 
-- [**NeurIPS**] [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646)<br>
-  Xiaoming Shi, Siqiao Xue, **Kangrui Wang**, Fan Zhou, James Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei
+- [Explicit Planning Helps Language Models in Logical Reasoning](https://arxiv.org/abs/2303.15714)<br>
+  Hongyu Zhao, **Kangrui Wang**, Mo Yu, Hongyuan Mei<br>
+  [**Emnlp 2023**]
 
-- [**arXiv**] [Explicit Planning Helps Language Models in Logical Reasoning](https://arxiv.org/abs/2303.15714)<br>
-  Hongyu Zhao, **Kangrui Wang**, Mo Yu, Hongyuan Mei
+- [Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities](https://nips.cc/virtual/2023/poster/70547)<br>
+  Dongrui Liu, Huiqi Deng, Xu Cheng, Qihan Ren, **Kangrui Wang**, Quanshi Zhang<br>
+  [**NeurIPS 2023**]
 
-- [**NeurIPS**] [Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities](https://openreview.net/forum?id=mZ3hnyL9bS)<br>
-  Dongrui Liu, Huiqi Deng, Xu Cheng, Qihan Ren, **Kangrui Wang**, Quanshi Zhang
+- [Trap of Feature Diversity in the Learning of MLPs](https://arxiv.org/abs/2112.00980)<br>
+  Dongrui Liu, Shaobo Wang, Jie Ren, **Kangrui Wang**, Sheng Yin, Huiqi Deng, Quanshi Zhang<br>
+  [**arXiv**]
 
-### 2022
+- [An Approximation Algorithm for Bounded Task Assignment Problem in Spatial Crowdsourcing] (https://ieeexplore.ieee.org/document/9055062)<br>
+  Shahzad Sarwar Bhatti, Jiahao Fan, **Kangrui Wang**, Xiaofeng Gao, Fan Wu, Guihai Chen<br>
+  [**IEEE Transactions on Mobile Computing 2021**]
 
-- [**arXiv**] [Trap of Feature Diversity in the Learning of MLPs](https://arxiv.org/abs/2112.00980)<br>
-  Dongrui Liu, Shaobo Wang, Jie Ren, **Kangrui Wang**, Sheng Yin, Huiqi Deng, Quanshi Zhang
+
