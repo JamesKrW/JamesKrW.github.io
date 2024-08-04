@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year graduate student from Pre-Doctoral MPCS, University of Chicago. My researh interest is broadly about natural language processing, reinforcement learning and machine learning theory. My current research goal is to develop advanced language models capable of addressing real-world problems. I'm fortuate to be advised by Prof. Hongyuan Mei at TTIC. I also collaborate with Mo Yu from Wechat AI.
+I'm an incoming PhD student in Computer Science at Northwestern Univeristy, working with Prof. Manling Li. I received my master's degree at UChicago, advised by Prof. Hongyuan Mei. I completed my undergraduate study at Shanghai Jiao Tong Univeristy. Currently, I'm doing summer intern at Stanford Vision and Learning Lab.
 
-Before joining Uchicago, I received my Bachelor's degree in Computer Science from Shanghai Jiao Tong University, where I was a part of the Explainable AI group and had the honor of being mentored by Prof. Quanshi Zhang.
-
-
-
-
+My research is driven by the possibility of developing advanced agents that can efficiently handle complex real-world tasks with minor human-supervision, such as making smart investments, writing high-quality academic papers, and solving longstanding mathematical problems. In pursuit of these objectives, my research focuses on the intersection of
+machine learning and natural language processing (NLP). More specifically, I’m committed to addressing critical challenges in the following areas :
+1. Explainable AI in NLP Contexts
+In this domain, I focus on developing NLP models that are transparent and interpretable. This involves creating AI systems that can not only perform complex language processing tasks with high accuracy but also provide clear explanations for their decision-making processes and outputs, which is crucial for safety-related AI applications.
+2. Enhancing Reasoning Abilities of Language Models
+My research interest in this field include: (1) developing training techniques that enhance the reasoning abilities of language models (LMs); and (2) designing frameworks that optimize such abilities to their fullest potential. With these initiatives, I hope to build AI systems capable of understanding and interpreting context effectively, drawing rigorous logical inferences, and undertaking complex problem-solving tasks.
+3. LLM Agent
+The integration of large language models (LLMs) into the framework of autonomous agents is a promising area. I’m intrigued by leveraging LLMs’ advanced linguistic understanding and contextual awareness to enhance the decision-making ability of these agents through prompting techniques and deep reinforcement learning methods.

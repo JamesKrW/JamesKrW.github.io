@@ -16,6 +16,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}  -->
 
+† means co-first
+- [MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large Language Models](https://openreview.net/forum?id=a7eIuzEh2R)<br> 
+  Peng Ding†, Jiading Fang†, Peng Li†, **Kangrui Wang†**, Xiaochen Zhou†,  
+  Mo Yu, Jing Li, Matthew Walter, Hongyuan Mei<br>
+  *COLM 2024*
 
 - [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646)<br> 
   Xiaoming Shi, Siqiao Xue, **Kangrui Wang**, Fan Zhou, James Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei<br>
