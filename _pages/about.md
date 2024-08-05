@@ -24,3 +24,23 @@ My research interest in this field include: (1) developing training techniques t
 <span style="color: red;">***3. LLM Agent***</span>
 
 The integration of large language models (LLMs) into the framework of autonomous agents is a promising area. I'm intrigued by leveraging LLMs' advanced linguistic understanding and contextual awareness to enhance the decision-making ability of these agents through prompting techniques and deep reinforcement learning methods.
+
+# Publications
+† means co-first
+- [MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large Language Models](https://arxiv.org/abs/2403.19913)<br> 
+  Peng Ding†, Jiading Fang†, Peng Li†, **Kangrui Wang†**, Xiaochen Zhou†,  
+  Mo Yu, Jing Li, Matthew Walter, Hongyuan Mei<br>
+  *COLM 2024*
+
+- [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646)<br> 
+  Xiaoming Shi, Siqiao Xue, **Kangrui Wang**, Fan Zhou, James Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei<br>
+  *NeurIPS 2023*
+
+- [Explicit Planning Helps Language Models in Logical Reasoning](https://arxiv.org/abs/2303.15714)<br>
+  Hongyu Zhao, **Kangrui Wang**, Mo Yu, Hongyuan Mei<br>
+  *EMNLP 2023*
+
+- [Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities](https://nips.cc/virtual/2023/poster/70547)<br>
+  Dongrui Liu, Huiqi Deng, Xu Cheng, Qihan Ren, **Kangrui Wang**, Quanshi Zhang<br>
+  *NeurIPS 2023*
+
