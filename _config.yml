@@ -86,7 +86,7 @@ author:
   location         : "Chicago, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=92hG3HUAAAAJ&hl=zh-CN&authuser=1
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : JamesKrW
+  github           : https://github.com/JamesKrW
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : wang-kangrui-8b9a37257
+  linkedin         : https://www.linkedin.com/in/kangrui-wang-8b9a37257/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
