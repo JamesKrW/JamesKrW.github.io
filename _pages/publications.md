@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}  -->
 
 † means co-first
-- [MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large Language Models](https://openreview.net/forum?id=a7eIuzEh2R)<br> 
+- [MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large Language Models](https://arxiv.org/abs/2403.19913)<br> 
   Peng Ding†, Jiading Fang†, Peng Li†, **Kangrui Wang†**, Xiaochen Zhou†,  
   Mo Yu, Jing Li, Matthew Walter, Hongyuan Mei<br>
   *COLM 2024*
@@ -33,13 +33,5 @@ author_profile: true
 - [Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities](https://nips.cc/virtual/2023/poster/70547)<br>
   Dongrui Liu, Huiqi Deng, Xu Cheng, Qihan Ren, **Kangrui Wang**, Quanshi Zhang<br>
   *NeurIPS 2023*
-
-- [Trap of Feature Diversity in the Learning of MLPs](https://arxiv.org/abs/2112.00980)<br>
-  Dongrui Liu, Shaobo Wang, Jie Ren, **Kangrui Wang**, Sheng Yin, Huiqi Deng, Quanshi Zhang<br>
-  *arXiv*
-
-- [An Approximation Algorithm for Bounded Task Assignment Problem in Spatial Crowdsourcing](https://ieeexplore.ieee.org/document/9055062)<br>
-  Shahzad Sarwar Bhatti, Jiahao Fan, **Kangrui Wang**, Xiaofeng Gao, Fan Wu, Guihai Chen<br>
-  *IEEE Transactions on Mobile Computing 2021*
 
 
